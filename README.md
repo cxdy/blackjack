@@ -3,7 +3,7 @@
 I was bored and I like playing blackjack on occasion, figured this could be a fun/harmless way to learn basic strategy
 
 ## Defaults
-- 3 players
+- 1 player
 - 6 decks (52x6 = 312 cards)
 - Split twice in one hand
 
